@@ -2,4 +2,5 @@
 // Copy this file, and add rule overrides as needed.
 {
   "extends": "airbnb"
+  "indent": ["error", 4]
 }
